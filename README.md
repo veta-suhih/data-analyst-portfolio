@@ -29,8 +29,16 @@ SQL-анализ цифрового медиа-сервиса (на базе Chi
 
 ---
 
-### 3. (Следующий проект)
-Скоро
+### 3. SaaS Product Analytics Dashboard
+Интерактивный дашборд по SaaS-метрикам: MRR, ARR, churn, использование продукта и поддержка.
+
+**Инструменты:** Power BI, Power Query, DAX  
+**Что внутри:**
+- 3 страницы дашборда
+- Анализ выручки, клиентов и оттока
+- Product Health и причины churn
+
+→ [Смотреть проект](https://github.com/veta-suhih/03-product-dashboard)
 
 ---
 
